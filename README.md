@@ -9,6 +9,7 @@
 
 [Twitter-Sentiment-Analysis](https://github.com/mayank93/Twitter-Sentiment-Analysis)
 
+[dennybritz/cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)
 
 ## references
 
