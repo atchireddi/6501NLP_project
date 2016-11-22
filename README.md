@@ -1,9 +1,19 @@
 # 6501NLP_project
 
+## Requirements
+Python 3
+Tensorflow > 0.8
+Numpy
 
-## run the model
+
+## Training
 ```
 python train.py
+```
+
+## Evaluatig
+```
+python eval.py --eval_train --checkpoint_dir="./runs/1459637919/checkpoints/"
 ```
 
 ## related github
@@ -12,7 +22,7 @@ python train.py
 
 [pyLDAvis](https://github.com/bmabey/pyLDAvis) -->
 
-[Twitter-Sentiment-Analysis](https://github.com/mayank93/Twitter-Sentiment-Analysis)
+<!-- [Twitter-Sentiment-Analysis](https://github.com/mayank93/Twitter-Sentiment-Analysis) -->
 
 [dennybritz/cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)
 
@@ -22,5 +32,5 @@ python train.py
 
 <!-- [Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec](https://arxiv.org/pdf/1605.02019v1.pdf) -->
 
-[Google word2vec](https://code.google.com/archive/p/word2vec/)
+<!-- [Google word2vec](https://code.google.com/archive/p/word2vec/) -->
 
