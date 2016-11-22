@@ -1,6 +1,11 @@
 # 6501NLP_project
 
 
+## run the model
+```
+python train.py
+```
+
 ## related github
 
 <!-- [lda2vec](https://github.com/cemoody/lda2vec)
