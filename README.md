@@ -1,9 +1,12 @@
-# 6501NLP_project
+**6501NLP_project**
+
+It is a simple text classification by using 1D CNN. Most code is from [dennybritz/cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)
+
 
 ## Requirements
-Python 3
-Tensorflow > 0.8
-Numpy
++ Python 3
++ Tensorflow > 0.8
++ Numpy
 
 
 ## Training
